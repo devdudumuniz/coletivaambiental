@@ -1,0 +1,42 @@
+
+body {
+  line-height: 1;
+}
+
+:focus {
+  outline: 0;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+}
+
+blockquote, q {
+  quotes: "" "";
+}
+
+cite:before {
+  content: "â€ž";
+}
+cite:after {
+  content: "\201D";
+}
+
+.clear {
+  clear: both;
+}
+
+a img {
+  border: 0;
+}
+
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}

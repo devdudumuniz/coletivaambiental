@@ -1,0 +1,9 @@
+.panel-custom{
+    background: #333;
+}
+.panel-custom a{
+    color:#fff;
+}
+.panel-custom a:hover{
+    color:#000;   
+}

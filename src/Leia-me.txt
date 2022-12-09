@@ -1,0 +1,28 @@
+
+Requer php do 5.4 ao 5.6, não pode ser outro.
+Indicamos que seja instalado na raiz.
+
+
+As tabelas devem ser criadas a partir do arquivo table.sql localizado na pasta src importe o arquivo para seu phpmyadmin
+após criar o banco, configure os dados de acesso no arquivo database/DB.php
+exemplo nome do banco de dados, senha, usuário etc...   
+
+painel administrativo 
+localizado na url exemplo: localhost/blog/admin/
+                           url do site/blog/admin/ 
+acesso
+login: admin
+senha: admin
+
+Agradecemos por sua compra e confiança
+
+Tem de Tudo Programas
+
+Nosso site:
+
+
+https://temdetudoprogramas.com
+
+https://temdetudofontes.com
+
+https://www.temdetudoscript.com
